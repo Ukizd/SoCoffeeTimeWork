@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299319169717",
+    "firebase_url": "https://socoffee-2ec22.firebaseio.com",
+    "project_id": "socoffee-2ec22",
+    "storage_bucket": "socoffee-2ec22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299319169717:android:67ba1a22d3a25c87",
+        "android_client_info": {
+          "package_name": "com.example.patryk.kamiltestfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299319169717-u2hejd7vjgfbc3g2vouim6njr0867h8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJe3o4vDrrXCK754ulX99xAM-fobDsYDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
